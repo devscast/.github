@@ -1,5 +1,8 @@
 # Devscast Community
 
+[![Check out devscast's profile on stardev.io](https://stardev.io/developers/devscast/badge/languages/country.svg)](https://stardev.io/developers/devscast)
+
+
 Devscast, créée afin de mettre en place une communauté de développeurs compétents qui peuvent travailler ensemble pour résoudre des problèmes sociaux à grande échelle. 
 
 
