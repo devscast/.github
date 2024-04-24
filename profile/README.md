@@ -7,6 +7,8 @@ Devscast, créée afin de mettre en place une communauté de développeurs comp�
 
 ## Suivez nous
 
+[![Check out devscast's profile on stardev.io](https://stardev.io/developers/devscast/badge/languages/country.svg)](https://stardev.io/developers/devscast)
+
 Nous sommes sur les médias sociaux:
 
 - [devscast_org](https://twitter.com/devscast_org) sur Twitter. Vous devriez le suivre.
