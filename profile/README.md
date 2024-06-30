@@ -13,7 +13,4 @@ Nous sommes sur les médias sociaux:
 
 - [devscast_org](https://twitter.com/devscast_org) sur Twitter. Vous devriez le suivre.
 - [Devscast Community](https://www.linkedin.com/company/devscast-community/) sur LinkedIn
-- [devscast_org](https://www.instagram.com/devscast_org/) sur Instagram.
-- [devscast.org](https://web.facebook.com/devscast.org/) sur Facebook.
-- [devscast.org](https://tiktok.com/devscast_org/) sur Tiktok.
 - [devscast_org](https://www.youtube.com/@devscast_org) sur Youtube.
