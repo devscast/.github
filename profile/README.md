@@ -1,7 +1,6 @@
-# Devscast Community
-
 ![Community](https://github.com/devscast/.github/blob/master/profile/community.png?raw=true)
 
+# Devscast Community
 A space for developers to learn, grow, and solve problems together
 
 ## Suivez nous
